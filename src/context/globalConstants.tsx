@@ -1,0 +1,7 @@
+const globalConstants = {
+  UPDATE_MONTH: "UPDATE_MONTH",
+  SET_TRANSACTION_LIST: "SET_TRANSACTION_LIST",
+  DELETE_TRANSACTION: "DELETE_TRANSACTION",
+};
+
+export default globalConstants;

@@ -1,0 +1,15 @@
+.containerApp {
+  height: 100vh;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.appContent {
+  padding: 25px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}

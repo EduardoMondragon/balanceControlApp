@@ -1,0 +1,27 @@
+.containerIncomeOrExpenses {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.amountTitle {
+  font-size: 13px;
+}
+
+.amount {
+  margin-top: -15px;
+  font-weight: 700;
+}
+
+.icon {
+  margin-top: 3px;
+  margin-right: 0px !important;
+  font-weight: 900 !important;
+}
+
+.divider {
+  --bs-gutter-x: 0rem;
+  width: 1px !important;
+  height: 50px;
+  background-color: lightgray;
+}

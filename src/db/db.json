@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "Fri Jun 23 2023 01:24:32 GMT-0700 (hora estándar del Pacífico de México)",
+      "title": "nomina",
+      "amount": "15000.00"
+    },
+    {
+      "id": 2,
+      "date": "Fri Jun 23 2023 01:24:32 GMT-0700 (hora estándar del Pacífico de México)",
+      "title": "pago luz",
+      "amount": "-2400.54"
+    },
+    {
+      "id": 3,
+      "date": "Fri Jan 23 2023 01:24:32 GMT-0700 (hora estándar del Pacífico de México)",
+      "title": "pago telefono",
+      "amount": "-240.00"
+    },
+    {
+      "title": "dulces",
+      "amount": "-22.00",
+      "id": 606674714,
+      "date": "Sat Jun 24 2023 02:08:14"
+    },
+    {
+      "title": "bono",
+      "amount": "543.98",
+      "id": 73350759199,
+      "date": "Sat Jun 24 2023 02:17:48"
+    },
+    {
+      "title": "carne",
+      "amount": "200.00",
+      "id": 78858034922,
+      "date": "Sun Jun 25 2023 15:27:31"
+    }
+  ]
+}
