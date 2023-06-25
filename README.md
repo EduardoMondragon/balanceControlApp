@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To activate the json-server local database, In the project directory, you can run:
+
+### `npm run json:server`  // running port (3004)
+
+
 In the project directory, you can run:
 
 ### `npm start`
